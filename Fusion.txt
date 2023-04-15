@@ -377,8 +377,6 @@ end)
 
 -- // Memory Spoofer \\ --
 
-getgenv().MemoryMost = 945
-getgenv().MemoryLeast = 915  
 getgenv().Speed = 1
 getgenv().Spike = false
 getgenv().SpikeChance = 7
